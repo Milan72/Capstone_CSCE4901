@@ -30,3 +30,4 @@ Sprint 0 - Requirements Gathering
 
 - Improve clinic management
 - Simplify appointment scheduling
+- Improve patient communication
