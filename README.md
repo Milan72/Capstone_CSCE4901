@@ -25,3 +25,8 @@ To be determined during requirements analysis.
 ## Project Status
 
 Sprint 0 - Requirements Gathering
+
+## Project Goals
+
+- Improve clinic management
+- Simplify appointment scheduling
